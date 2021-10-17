@@ -1,0 +1,15 @@
+{
+  "name": "egsp.unity.types",
+  "version": "1.0.0",
+  "displayName": "Egsp Unity Types",
+  "description": "Basic types used in Egsp packages.",
+  "keywords": [
+    "library"
+  ],
+  "author": {
+    "name": "Kirill Gasanov",
+    "email": "gasanov.kirill.dev@gmail.com",
+    "url": "https://github.com/EveryGameSPlay"
+  },
+  "unity": "2017.1"
+}
